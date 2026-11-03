@@ -1,0 +1,9 @@
+{
+  "name": "qirunava-rebuild",
+  "version": "0.4.75",
+  "private": true,
+  "description": "Static website rebuild for Qirunava · สี่ปราณ: ศึกเจ้าสำนัก",
+  "scripts": {
+    "build": "node build.js"
+  }
+}
